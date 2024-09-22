@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fitrayuda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mneach&label=Profile%20views&color=0e75b6&style=flat" alt="mneach" /> </p>
 
--   🔭 Competitive Programming Enjoyer
-
--   🌱 I’m currently learning **System Design, Game Dev, Machine Learning, and
-    Deep Learning**
+-   🌱 I’m currently learning **Game Dev, Machine Learning, and Deep Learning**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mneach&show_icons=true&locale=en&layout=compact" alt="mneach" /></p>
 
