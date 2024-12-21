@@ -3,8 +3,6 @@
 
 -   🌱 I’m currently learning **Game Dev**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mneach&show_icons=true&locale=en&layout=compact" alt="mneach" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mneach&show_icons=true&locale=en" alt="mneach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mneach&" alt="mneach" /></p>
