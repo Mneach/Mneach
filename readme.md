@@ -5,4 +5,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mneach&" alt="mneach" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mneach?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fitrayuda?theme=dark&font=JetBrains%20Mono&ext=heatmap)
