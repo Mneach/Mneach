@@ -3,6 +3,6 @@
 
 -   🌱 I’m currently learning **Game Dev**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitra-yuda&" alt="mneach" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitra-yuda&" alt="fitra-yuda" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/fitra-yuda?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fitrayuda?theme=dark&font=JetBrains%20Mono&ext=heatmap)
